@@ -1,5 +1,5 @@
-# Tặng Crush
-## _Một điều nho nhỏ tỏ tình với crush_
+# Tặng người yêu
+## _Một điều nho nhỏ cho người yêu_
 Link Demo: https://binncodee.github.io/Lovee_Camm_Lyy/
 
 ## Tác giả: Trần Hoàng Hải
